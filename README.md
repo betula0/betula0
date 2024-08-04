@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @betula0
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Frontend Development and I'm still learning 
+- 🌱 I’m currently learning PHP, MySQL Basics
+- 💞️ I’m looking to connect
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
