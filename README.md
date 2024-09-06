@@ -2,9 +2,8 @@
 - 👀 I’m interested in Frontend Development and I'm still learning 
 - 🌱 I’m currently learning Java Script Basics
 - 💞️ I’m looking to connect
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me Linkedin
+
 
 <!---
 betula0/betula0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
